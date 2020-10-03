@@ -4,7 +4,7 @@ My name is Stefane Fermigier, I trained and worked as a mathematician in the 80s
 
 More personal information, and my CV, can be found on my website: <https://fermigier.com/>.
 
-I discovered Python around 1992, while working on my Thesis (a part of my Thesis was implemented using the PARI/GP computational arithmetic project, for which I made a Python binding).
+I discovered Python around 1992, while working on my PhD (a part of my thesis was implemented using the PARI/GP computational arithmetic project, for which I made a Python binding ; I also made Python bindings to the PVM parallel computation framework).
 
 Here are some automated stats about my published Python projects
 ([thanks Simon Willison!][sw-post]):
