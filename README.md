@@ -10,9 +10,9 @@ Here are some automated stats about my published Python projects
 ([thanks Simon Willison!][sw-post]):
 
 <!--marker-->
-Total downloads: 1,136,446<br>
-Downloads/month: 24,466<br>
-Stars count: 1,688
+Total downloads: 1,138,173<br>
+Downloads/month: 25,095<br>
+Stars count: 1,689
 <!--end-->
 
 Most of these projects are created and supported by my comparny, [Abilian SAS](https://abilian.com/).
