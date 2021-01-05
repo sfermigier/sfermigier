@@ -10,9 +10,9 @@ Here are some automated stats about my current public projects
 ([thanks Simon Willison!][sw-post]):
 
 <!--marker-->
-Total downloads (on PyPI): 1,167,418<br>
-Downloads/month (on PyPI): 14,698<br>
-Stars count (on GitHub): 1,739
+Total downloads: 1,168,754<br>
+Downloads/month: 15,023<br>
+Stars count: 1,741
 <!--end-->
 
 Most of these projects are created and supported by my company, [Abilian SAS](https://abilian.com/).
