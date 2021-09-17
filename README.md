@@ -15,6 +15,10 @@ Downloads/month: 30,869<br>
 Stars count: 1,915
 <!--end-->
 
+
+![More GitHub stats](https://github-readme-stats.vercel.app/api?username=sfermigier&show_icons=true)
+
+
 Most of these projects are created and supported by my company, [Abilian SAS](https://abilian.com/).
 
 [sw-post]: https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
