@@ -10,9 +10,9 @@ Here are some automated stats about my current public projects
 ([thanks Simon Willison!][sw-post]):
 
 <!--marker-->
-Total downloads: 1,389,386<br>
-Downloads/month: 24,198<br>
-Stars count: 1,913
+Total downloads: 1,397,605<br>
+Downloads/month: 30,869<br>
+Stars count: 1,915
 <!--end-->
 
 Most of these projects are created and supported by my company, [Abilian SAS](https://abilian.com/).
