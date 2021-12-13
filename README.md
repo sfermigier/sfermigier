@@ -11,8 +11,8 @@ Here are some automated stats about my current public projects
 
 <!--marker-->
 Total downloads: 1,459,917<br>
-Downloads/month: 15,939<br>
-Stars count: 1,970
+Downloads/month: 13,217<br>
+Stars count: 1,973
 <!--end-->
 
 
