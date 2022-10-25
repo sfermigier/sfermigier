@@ -10,9 +10,9 @@ Here are some automated stats about my current public projects
 ([thanks Simon Willison!][sw-post]):
 
 <!--marker-->
-Total downloads: 1,724,221<br>
-Downloads/month: 16,583<br>
-Stars count: 2,287
+Total downloads: 1,724,747<br>
+Downloads/month: 16,511<br>
+Stars count: 2,288
 <!--end-->
 
 
